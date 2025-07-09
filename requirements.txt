@@ -1,9 +1,7 @@
 streamlit
 pandas
-numpy
 matplotlib
 seaborn
-wordcloud
-re
 plotly
 nltk
+wordcloud
